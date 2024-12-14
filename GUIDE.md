@@ -142,6 +142,6 @@ Note: When using file output, you need to mount volumes to access the results fr
 
 
 ### ZAProxy HELP COMMAND OUTPUT
-- [HELP.md](HELP.md) - A detailed prowler `[provide]` --help  command response.
+- [HELP.md](HELP.md) - A detailed `/zap/zap.sh -help`  command response.
 
 For more information or to report issues, please refer to the project's documentation or repository.
